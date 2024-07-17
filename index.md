@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Coming Soon
+
+![Giga Woke Capital](./assets/images/giga-woke-capital.jpg)
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
