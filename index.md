@@ -7,13 +7,13 @@ layout: default
 
 Zenon Network == [Zenon Network](https://zenon.network)
 
-> This website serves as a roadmap for new users, contributors and developers to become familiar with Zenon.  
-
-*Foreword:* Zenon Network is an Independent Entity
-* Zenon was designed by hardcore Bitcoin OGs.  No, we don't know who they are so don't try to find them.  It's Impossible.  
-* The founding developers and architects may or may not still be with us.
-* The community runs the project now, in every respect.
+**Zenon Network is an Independent Entity**
+* This website serves as a roadmap for new users, contributors and developers to become familiar with Zenon Network. 
+* Zenon was designed by hardcore Bitcoin OGs.  No, we don't know who they are so don't try to find them.  It's Impossible. Satoshi impossible.  
+* The founding developers and architects may or may not still be with us. DYOR.
+* The community runs the project, in every respect.  We are autistic.  
 * Moon boys beware. DYOR and don't expect $ZNN or $QSR to moon overnight.  Right now we are down only.  
+* Expect to discover developer and contributors who are not motivated by money. We are more interested in solving hard problems in crypto.
 * @Chadass and his army of alts destroy the weak. Don't expect any sympathy.
 * We are looking for contributors, developers, and speculators to join the community.  But before you do, always remember this Zenon riddle. 👇
 
