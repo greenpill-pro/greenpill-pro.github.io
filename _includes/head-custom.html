@@ -4,9 +4,12 @@
 {% include head-custom-theme-colors.html %}
 
 <!-- Setup Google Analytics -->
-{% include head-custom-google-analytics.html %}
+<!-- {% include head-custom-google-analytics.html %} -->
+
+<!-- Setup Posthog Analytics -->
+{% include head-custom-posthog-analytics.html %}
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
+link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | absolute_url }}"
 
 <!-- end custom head snippets -->
