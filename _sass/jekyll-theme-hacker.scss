@@ -6,7 +6,7 @@ $body-foreground: $gallery !default;
 $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
-$container-max-width: 1000px;
+$container-max-width: 750px;
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
@@ -14,10 +14,24 @@ $container-max-width: 1000px;
   }
 }
 
+@media (max-width: 420px) {
+  .title-section h1, .title-section h2 {
+    display: none;
+  }
+
+  .logo {
+  margin-right: 0px !important;
+  }
+
+  section img {
+    max-width: 100% !important;
+  }
+}
+
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
+  background: $body-background;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
@@ -50,19 +64,37 @@ li {
    h1       - project name
    h2       - project description
 */
-
 header {
-  background: rgba(0, 0, 0, 0.1);
-  width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
-  padding: 20px 0;
-  margin: 0 0 40px 0;
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  margin-bottom: 20px;
+  
+}
+
+header .header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  max-width: 750px;
+  border-bottom: 1px solid #1c1917; //header;
+  padding: 20px;
+  margin: 0px 0px 0px 0px;
+}
+
+header .title-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  ;
 }
 
 header h1 {
-  font-size: 30px;
+  font-size: 24px;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  margin: 0 0 0 0px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $conifer;//$header;
@@ -78,21 +110,27 @@ header h1 {
 
 
 header h1:before {
-  content: "./ ";
+  content: "";
   font-size: 24px;
 }
 
-header h2 {
+
+header .header-container h2 {
   font-size: 18px;
   font-weight: 300;
   color: #666;
+  margin: 0; /* Ensure no margin affects the alignment */
+  align-self: center; /* Ensure vertical alignment */
 }
 
-#downloads .btn {
-  display: inline-block;
-  text-align: center;
-  margin: 0;
+.logo {
+  display: inline-flex;
+  width: 150px; /* Make the logo 25% of its container's width */
+  height: auto;
+  
+  margin-right: 20px; /* Adjust spacing as needed */
 }
+
 
 /* Main Content
 */
@@ -102,13 +140,19 @@ header h2 {
   -webkit-font-smoothing: antialiased;
 }
 section img {
-  max-width: 100%
+  max-width: 50%;
+  margin: 15px;
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: normal;
+  font-weight: 900;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $header;
+  text-align: center;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -129,6 +173,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #main_content h4 {
   font-size: 14px;
+  text-align: left;
 }
 
 #main_content h5 {
@@ -149,8 +194,25 @@ dt {
   font-weight: bold;
 }
 
+ul {
+  list-style: none; /* Remove default list style */
+  padding-left: 0; /* Remove default padding */
+}
+
 ul li {
-  list-style-image:url('../images/bullet.png');
+  margin-bottom: 10px; /* Add space between list items if needed */
+  padding-left: 30px; /* Add padding to make space for the image */
+  position: relative; /* Ensure positioning context for the pseudo-element */
+}
+
+ul li:before {
+  content: ''; /* Pseudo-element content */
+  position: absolute; /* Position relative to the list item */
+  left: 0; /* Align with the left edge of the list item */
+  width: 24px; /* Desired width */
+  height: 24px; /* Desired height */
+  background-image: url('../images/bullet.png'); /* Image URL */
+  background-repeat: no-repeat; /* Prevent repeating of the image */
 }
 
 blockquote {
@@ -230,13 +292,27 @@ hr {
   display: inline-block;
   width: 16px;
   height: 16px;
-  margin: 1px 8px 0 0;
+  margin: 1px 1px 0 0;
   float: left;
 }
 
 .btn-github .icon {
-  opacity: 0.6;
+  opacity: 1;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
+}
+
+.github-icon {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background: url("../images/github-icon.png") 0 0 no-repeat;
+  /* Additional styles to ensure proper display */
+  margin: 0;
+  padding: 0;
+  float: none;
+  border: none;
+  box-shadow: none;
+  background-size: contain; /* Adjusts the icon size to fit the container */
 }
 
 /* Links
@@ -244,8 +320,16 @@ hr {
 */
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: #0034ED;
+  text-decoration: none;
+  text-shadow: 0 0 5px rgba(0, 50, 237, 0.5);
+}
+
+a::after {
+  content: url('../images/external-link.png');
+  display: inline-block;
+  margin-left: 5px; /* Adjust the spacing between the link text and the SVG if needed */
+  vertical-align: middle; /* Adjusts the vertical alignment of the SVG */
 }
 
 /* Clearfix */
@@ -265,4 +349,8 @@ a {
 
 #a-title {
   text-decoration: none;
+}
+
+.title-section #a-title::after {
+  content: none;
 }
