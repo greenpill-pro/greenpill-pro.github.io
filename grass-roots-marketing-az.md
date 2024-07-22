@@ -20,7 +20,7 @@ We are gathered here today 👇 to discuss the most prolific NoM writer since in
 🚨 It's time to do the needful.
 
 ## Background
-Since Jan 2022, Zyler has written 40 articles on our project.  You can see them listed on [medium](https://medium.com/@Zyler9985).  The combined reading time of the articles is many hours and they must have taken him hundreds of hours to write.  The articles are accurate, easy to read, and show a breadth of knowledge.  The stories span many genres: storybooks, fictional novels, technical writing, , guides, etc.  They were distributed on a reliable cadence and can serve as an onboarding vehicle for users and developers.  
+Since Jan 2022, Zyler has written 40 articles on our project.  You can see them listed on [medium](https://medium.com/@Zyler9985).  The combined reading time of the articles is many hours and they must have taken him hundreds of hours to write.  The articles are accurate, easy to read, and show a breadth of knowledge.  The stories span many genres: storybooks, fictional novels, technical writing, guides, etc.  They were distributed on a reliable cadence and can serve as an onboarding vehicle for users and developers.  
 
 In Short, Zyler delivered foundational knowledge to the community through engaging articles to onboard the next wave of aliens.  It our job to distribute them and use them to help grow the project.
 
@@ -48,8 +48,8 @@ After re-reading all the articles written by @zyler it's clear to us this work d
 
 Brat & deeZ proposes the following:
 - 5,000 $ZNN and 50,000 $QSR to Zyler for two years of work with includes 40 articles and one comprehensive `.pdf`
-- If this AZ is approved, Brat & deeZ send 5,000 $ZNN and 50,000 $QSR to The Sultan of Staking.  Sultain will hold the funds in escrow.  
-- If payment is approved, Brat & deeZ will receive 5,000 $ZNN and 50,000 $QSR, and the Sultain will release the escrowed funds to Zyler
+- If this AZ is approved, Brat & deeZ will send 5,000 $ZNN and 50,000 $QSR to The Sultan of Staking.  Sultain will hold the funds in escrow.  
+- If AZ payment is approved, Brat & deeZ will receive 5,000 $ZNN and 50,000 $QSR, and the Sultain will release the escrowed funds to Zyler
 
 The network needs writers to prevent a 'void' of content in our historical timeline. Almost certainly you have derived value from Zyler's articles if you are part of the Zenon culture. Sets the right precedence: the network pays when value is created.
 
