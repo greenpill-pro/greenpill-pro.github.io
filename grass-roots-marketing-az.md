@@ -6,9 +6,8 @@ layout: default
 
 ![force majeure meme](assets/images/greenpill-meme-force-majeure.jpg)
 
-```
-"If they deliver good work but are not funded, this undermines trust in the DAO and discourages future contributors, so the DAO is strongly incentivised to pay from the treasury fund to honour good work that has been done" @zyler9985
-```
+> "If they deliver good work but are not funded, this undermines trust in the DAO and discourages future contributors, so the DAO is strongly incentivised to pay from the treasury fund to honour good work that has been done" @zyler9985
+
 
 ## Purpose
 We are gathered here today 👇 to discuss the most prolific NoM writer since inception, second only to the founding developers: @zyler9985.
