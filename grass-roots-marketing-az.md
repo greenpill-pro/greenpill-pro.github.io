@@ -19,9 +19,9 @@ We are gathered here today 👇 to discuss the most prolific NoM writer since in
 🚨 It's time to do the needful.
 
 ## Background
-Since Jan 2022, Zyler has written 40 articles on our project.  You can see them listed on [medium](https://medium.com/@Zyler9985).  The combined reading time of the articles is many hours and they must have taken him hundreds of hours to write.  The articles are accurate, easy to read, and show a breadth of knowledge.  The stories span many genres: storybooks, fictional novels, technical writing, guides, etc.  They were distributed on a reliable cadence and can serve as an onboarding vehicle for users and developers.  
+Since Jan 2022, Zyler has written 40 articles on our project.  You can see them listed on [medium](https://medium.com/@Zyler9985).  The combined reading time of the articles is many hours and they must have taken him hundreds of hours to write.  The articles are accurate, easy to read, and show a breadth of knowledge. The stories span many genres: storybooks, fictional novels, technical writing, guides, etc.  They were distributed on a reliable cadence and can serve as an onboarding vehicle for users and developers.  
 
-In Short, Zyler delivered foundational knowledge to the community through engaging articles to onboard the next wave of aliens.  It our job to distribute them and use them to help grow the project.
+In Short, Zyler delivered foundational knowledge to the community through engaging articles to onboard the next wave of aliens. It is our job to distribute them and use them to help grow the project.
 
 ## The Hypergrowth Problem
 
@@ -37,20 +37,20 @@ It's time to change.
 
 Zyler submitted an AZ called [Zenon Storybook AZ](https://zenonhub.io/accelerator-z/project/052ccc40000d677bc2c61dd9c7dac3bac5759b514b7604bd590a10d6efb0404b) asking for 5,000 $ZNN and 50,000 $QSR.  The description was: `For Zyler's articles and the storybook for marketing Zenon.`  The AZ was *rejected*.  
 
-Let's be honest, the description sucked and he made no mention of the work involved.  Months later Brat and deeZNNutz started to reread the articles, starting with the `.pdf` [storybook](assets/pdf/The_Zenon_Storybook.pdf).  It's accurate, informative, comprehensive, and insightful. After digging through the `.pdf` we both read every article again, all 40 of them.  It took hours to to read them.  
+Let's be honest, the description sucked and he made no mention of the work involved.  Months later Brat and deeZNNutz started to reread the articles, starting with the `.pdf` [storybook](assets/pdf/The_Zenon_Storybook.pdf).  It's accurate, informative, comprehensive, and insightful. After digging through the `.pdf` we both read every article again, all 40 of them.  It took hours to re-read them.  
 
-All we can say is `wow`.  They are awesome.  Zyler laid out a roadmap for onboarding speculators, contributors, and developers.  There is something for everyone.  Zyler said early on that he needed help with distribution.  So here you go.  Brat and deeZ made a `greenpill` website to help new users understand the project by laying out a reading path using Zyler's articles.  More on that below.  
+All we can say is `wow`. They are awesome. Zyler laid out a roadmap for onboarding speculators, contributors, and developers. There is something for everyone. Zyler said early on that he needed help with distribution. So here you go.  Brat and deeZ made a `greenpill` website to help new users understand the project by laying out a reading path using Zyler's articles. More on that below.  
 
 ## A Second Chance
 
-After re-reading all the articles written by @zyler it's clear to us this work deserves another shot at the AZ that got rejected.  
+After re-reading all the articles written by @Zyler9985 it's clear to us this work deserves another shot at the AZ that got rejected.  
 
 Brat & deeZ proposes the following:
-- 5,000 $ZNN and 50,000 $QSR to Zyler for two years of work with includes 40 articles and one comprehensive `.pdf`
-- If this AZ is approved, Brat & deeZ will send 5,000 $ZNN and 50,000 $QSR to The Sultan of Staking.  Sultain will hold the funds in escrow.  
-- If AZ payment is approved, Brat & deeZ will receive 5,000 $ZNN and 50,000 $QSR, and the Sultain will release the escrowed funds to Zyler
+- 5,000 $ZNN and 50,000 $QSR to Zyler for two years of work which includes 40 articles and one comprehensive `.pdf`
+- If this AZ is approved, Brat & deeZ will send 5,000 $ZNN and 50,000 $QSR to Sultan of Staking's Community Address. Sultain will hold the funds in escrow.  
+- If AZ payment is approved, Brat & deeZ will receive 5,000 $ZNN and 50,000 $QSR, and the Sultan will release the escrowed funds to Zyler
 
-The network needs writers to prevent a 'void' of content in our historical timeline. Almost certainly you have derived value from Zyler's articles if you are part of the Zenon culture. Sets the right precedence: the network pays when value is created.
+The network needs writers to prevent a 'void' of content in our historical timeline. Almost certainly you have derived value from Zyler's articles if you are part of the Zenon culture. Sets the right precedence: **the network pays when value is created**.
 
 ## We ask for your support to approve this AZ and pay Zyler for the valueable work he created.  
 
