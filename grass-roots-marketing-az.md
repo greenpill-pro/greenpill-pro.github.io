@@ -12,7 +12,7 @@ layout: default
 ## Purpose
 We are gathered here today 👇 to discuss the most prolific NoM writer since inception, second only to the founding developers: @zyler9985.
 
-![Zenon Pillar Alliance Marketing Meeting](assets/images/greenpill-alien-landscape.jpg)
+![Zenon Pillar Alliance Marketing Meeting](assets/images/green-pill-funnel-meeting.jpg)
 
 [Zenon Pillar Alliance](https://zenonhub.io/accelerator-z/project/4579f97807ce2458239c29b78fc01b797879827f489dcb6c16e33b37b411a773) & [Zenon Pillar Horde](https://zenonhub.io/accelerator-z/project/66849cea94d7fb1f76fc3288e24df02d0bf66a3c61cc3d9f1af4da780e88a9ca) have agreed to "pledge support for initiatives that drive awareness and adoption of Zenon’s technology and make the best use of AZ to fulfill the mission: reaching new galaxies with the message of Phase Z".  
 
@@ -50,7 +50,7 @@ Brat & deeZ proposes the following:
 - If this AZ is approved, Brat & deeZ will send 5,000 $ZNN and 50,000 $QSR to Sultan of Staking's Community Address. Sultain will hold the funds in escrow.  
 - If AZ payment is approved, Brat & deeZ will receive 5,000 $ZNN and 50,000 $QSR, and the Sultan will release the escrowed funds to Zyler
 
-The network needs writers to prevent a 'void' of content in our historical timeline. Almost certainly you have derived value from Zyler's articles if you are part of the Zenon culture. Sets the right precedence: **the network pays when value is created**.
+The network needs writers to prevent a 'void' of content in our historical timeline. Almost certainly you have derived value from Zyler's articles if you are part of the Zenon culture. Let's set the right precedence: **the network pays when value is created**.
 
 ## We ask for your support to approve this AZ and pay Zyler for the valueable work he created.  
 
