@@ -47,7 +47,7 @@ After re-reading all the articles written by @Zyler9985 it's clear to us this wo
 
 Brat & deeZ proposes the following:
 - 5,000 $ZNN and 50,000 $QSR to Zyler for two years of work which includes 40 articles and one comprehensive `.pdf`
-- If this AZ is approved, Brat & deeZ will send 5,000 $ZNN and 50,000 $QSR to Sultan of Staking's Community Address. Sultain will hold the funds in escrow.  
+- If this AZ is approved, Brat & deeZ will send 5,000 $ZNN and 50,000 $QSR to TBD Community Address. TBD will hold the funds in escrow.  
 - If AZ payment is approved, Brat & deeZ will receive 5,000 $ZNN and 50,000 $QSR, and the Sultan will release the escrowed funds to Zyler
 
 The network needs writers to prevent a 'void' of content in our historical timeline. Almost certainly you have derived value from Zyler's articles if you are part of the Zenon culture. Let's set the right precedence: **the network pays when value is created**.
