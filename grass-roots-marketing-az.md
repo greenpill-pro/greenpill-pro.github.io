@@ -45,14 +45,15 @@ All we can say is `wow`. They are awesome. Zyler laid out a roadmap for onboardi
 
 After re-reading all the articles written by @Zyler9985 it's clear to us this work deserves another shot at the AZ that got rejected.  
 
-Brat & deeZ proposes the following:
-- 5,000 $ZNN and 50,000 $QSR to Zyler for two years of work which includes 40 articles and one comprehensive `.pdf`
-- If this AZ is approved, Brat & deeZ will send 5,000 $ZNN and 50,000 $QSR to TBD Community Address. TBD will hold the funds in escrow.  
-- If AZ payment is approved, Brat & deeZ will receive 5,000 $ZNN and 50,000 $QSR, and the Sultan will release the escrowed funds to Zyler
+Brat & deeZ ask the following:
+- All voting pillars should read Zyler's articles again.  Can you see the value even though we cannot measure it through clicks and conversions?  
+- Look at the Green Pill site below to see how the articles could be used to explain the network to new users / developers.  
+- If you vote YES on this AZ it indicates to Zyler you would support his previous request of 5,000 $ZNN and 50,000 $QSR.
+- If you vote NO please respond to the forum post giving constructive feedback to Zyler on what would be required to support his AZ.
 
 The network needs writers to prevent a 'void' of content in our historical timeline. Almost certainly you have derived value from Zyler's articles if you are part of the Zenon culture. Let's set the right precedence: **the network pays when value is created**.
 
-## We ask for your support to approve this AZ and pay Zyler for the valueable work he created.  
+## We ask for your support to approve this AZ so Zyler can resubmit an AZ and receive fair compensation for his work.   
 
 > Despite my current absence, I still care about Zenon and always will. It pains me to see the network struggling. I hope the community can turn things around soon, and I believe they will if they come together. -Zyler9985
 
