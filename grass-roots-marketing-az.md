@@ -47,11 +47,19 @@ After re-reading all the articles written by @Zyler9985 it's clear to us this wo
 
 Brat & deeZ ask the following:
 - All voting pillars should read Zyler's articles again.  Can you see the value even though we cannot measure it through clicks and conversions?  
-- Look at the Green Pill site below to see how the articles could be used to explain the network to new users / developers.  
-- If you vote YES on this AZ it indicates to Zyler you would support his previous request of 5,000 $ZNN and 50,000 $QSR.
-- If you vote NO please respond to the forum post giving constructive feedback to Zyler on what would be required to support his AZ.
+- Look at the [Green Pill](https://greenpill.pro) site below to see how the articles could be used to explain the network to new users / developers. 
+- If you vote YES on this AZ it indicates to Zyler you will reconsider a new AZ: 
+-- Propose a new amount [on the forum post](https://forum.zenon.org/t/zenon-storybook-az/1745)
+-- Propose a new delivery method [on the forum post](https://forum.zenon.org/t/zenon-storybook-az/1745)
+- If you vote NO please respond to [the forum](https://forum.zenon.org/t/zenon-storybook-az/1745) post giving constructive feedback to Zyler for future contributions.
 
-The network needs writers to prevent a 'void' of content in our historical timeline. Almost certainly you have derived value from Zyler's articles if you are part of the Zenon culture. Let's set the right precedence: **the network pays when value is created**.
+For historic comparison, the Pillars have previously approved "Marketing" AZs where the impact cannot be measured:
+- [Network State Event Series](https://zenonhub.io/accelerator-z/project/caec27fc1692d901c3ea8b5066ec9b2606ced7640d044e49863a10abb5f818d0_
+- [Network State Conference](https://zenonhub.io/accelerator-z/project/2b7eefa6d53873a01dd403a22e55be7e8b00b6260812cf75e97de479a92718a1)
+- [The Zenon Deck](https://zenonhub.io/accelerator-z/project/a36680943dea8a85e97606ed5768be2f4e2a4a533c295931e9d96a20cb7e7d45)
+- [PR & Ads Scam](https://zenonhub.io/accelerator-z/project/ccb6c92b4de1b8b225013ff2102157bc6e20f04b5f68beab3dc67d7b4b592245)
+
+The network needs writers to prevent a 'void' of content in our historical timeline. Almost certainly you have derived value from Zyler's articles if you are part of the Zenon culture. And it's hard to argue new users / developers w Let's set the right precedence: **the network pays when value is created**.
 
 ## We ask for your support to approve this AZ so Zyler can resubmit an AZ and receive fair compensation for his work.   
 
