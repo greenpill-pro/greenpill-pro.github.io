@@ -52,7 +52,7 @@ Brat & deeZ ask the following:
 - If you vote NO please respond to [the forum post](https://forum.zenon.org/t/zenon-storybook-az/1745) giving constructive feedback to Zyler and others for future contributions.
 
 For historic comparison, the Pillars have previously approved "Marketing" AZs where the impact cannot be measured:
-- [Network State Event Series](https://zenonhub.io/accelerator-z/project/caec27fc1692d901c3ea8b5066ec9b2606ced7640d044e49863a10abb5f818d0_
+- [Network State Event Series](https://zenonhub.io/accelerator-z/project/caec27fc1692d901c3ea8b5066ec9b2606ced7640d044e49863a10abb5f818d0)
 - [Network State Conference](https://zenonhub.io/accelerator-z/project/2b7eefa6d53873a01dd403a22e55be7e8b00b6260812cf75e97de479a92718a1)
 - [The Zenon Deck](https://zenonhub.io/accelerator-z/project/a36680943dea8a85e97606ed5768be2f4e2a4a533c295931e9d96a20cb7e7d45)
 - [PR & Ads Scam](https://zenonhub.io/accelerator-z/project/ccb6c92b4de1b8b225013ff2102157bc6e20f04b5f68beab3dc67d7b4b592245)
