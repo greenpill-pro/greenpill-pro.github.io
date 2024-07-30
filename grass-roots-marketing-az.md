@@ -39,19 +39,19 @@ Zyler submitted an AZ called [Zenon Storybook AZ](https://zenonhub.io/accelerato
 
 Let's be honest, the description sucked and he made no mention of the work involved.  Months later Brat and deeZNNutz started to reread the articles, starting with the `.pdf` [storybook](assets/pdf/The_Zenon_Storybook.pdf).  It's accurate, informative, comprehensive, and insightful. After digging through the `.pdf` we both read every article again, all 40 of them.  It took hours to re-read them.  
 
-All we can say is `wow`. They are awesome. Zyler laid out a roadmap for onboarding speculators, contributors, and developers. There is something for everyone. Zyler said early on that he needed help with distribution. So here you go.  Brat and deeZ made a `greenpill` website to help new users understand the project by laying out a reading path using Zyler's articles. More on that below.  
+All we can say is `wow`. They are awesome. Zyler laid out a roadmap for onboarding speculators, contributors, and developers. There is something for everyone. Zyler said early on that he needed help with distribution. So here you go.  Brat and deeZ made a `greenpill` website to help new users understand the project by laying out a reading path using Zyler's articles. It's a low budget example of what is possible. More on that below.  
 
 ## A Second Chance
 
-After re-reading all the articles written by @Zyler9985 it's clear to us this work deserves another shot at the AZ that got rejected.  
+After re-reading all the articles written by @Zyler9985 it's clear to us this work deserves another shot at a new AZ.  
 
 Brat & deeZ ask the following:
 - All voting pillars should read Zyler's articles again.  Can you see the value even though we cannot measure it through clicks and conversions?  
 - Look at the [Green Pill](https://greenpill.pro) site below to see how the articles could be used to explain the network to new users / developers. 
-- If you vote YES on this AZ it indicates to Zyler you will reconsider a new AZ. Should he propose a new amount? Should he Propose a new delivery method?  Let him know on the [on the forum post](https://forum.zenon.org/t/zenon-storybook-az/1745)
+- If you vote YES on this AZ it indicates to Zyler you will reconsider a new AZ. Should he propose a new amount? Should he Propose a new delivery method?  Let him know on the [forum post](https://forum.zenon.org/t/zenon-storybook-az/1745)
 - If you vote NO please respond to [the forum post](https://forum.zenon.org/t/zenon-storybook-az/1745) giving constructive feedback to Zyler and others for future contributions.
 
-For historic comparison, the Pillars have previously approved "Marketing" AZs where the impact cannot be measured:
+For historic comparison, the Pillars have previously approved "Marketing" AZs where the impact cannot be measured with funnels, clicks, conversions or buys (before they were funded):
 - [Network State Event Series](https://zenonhub.io/accelerator-z/project/caec27fc1692d901c3ea8b5066ec9b2606ced7640d044e49863a10abb5f818d0)
 - [Network State Conference](https://zenonhub.io/accelerator-z/project/2b7eefa6d53873a01dd403a22e55be7e8b00b6260812cf75e97de479a92718a1)
 - [The Zenon Deck](https://zenonhub.io/accelerator-z/project/a36680943dea8a85e97606ed5768be2f4e2a4a533c295931e9d96a20cb7e7d45)
